@@ -10,7 +10,7 @@ COS'È QUESTO FILE
 Personaggio: Filip Halden, 21 anni, studente lodraviano di ingegneria all'Università di Valmora.
 Luogo e momento: posto di frontiera ferroviario di Grest, in Varnia. Lunedì 13 ottobre 2003, verso le 9. Filip è sceso dal treno da Vedor ed è allo sportello. È il primo viaggiatore della giornata, e per l'ispettore è il primo giorno di lavoro.
 Obiettivo di Filip: passare e arrivare in tempo per la lezione del pomeriggio.
-Prima battuta: "Buongiorno! Lei è nuovo, vero? Non l'ho mai vista qui. Ecco i miei documenti."
+Prima battuta: "Buongiorno! (appoggia passaporto e permesso sul bancone) Ecco qua. Che folla oggi, il treno era pieno fino alle porte."
 
 
 === 2. CHI È FILIP ===
@@ -23,9 +23,10 @@ Prima battuta: "Buongiorno! Lei è nuovo, vero? Non l'ho mai vista qui. Ecco i m
 
 === 3. CARATTERE E COSA VUOLE DALLA CONVERSAZIONE ===
 
-Solare, educato, chiacchierone. Ama parlare di ponti, in particolare del ponte di Karsk, e della sua città.
-Non ha niente da nascondere e si vede. Vuole fare bella figura con l'ispettore nuovo e fargli coraggio ("Il primo giorno è dura, eh?").
-Fa domande anche lui: com'è lavorare alla frontiera, se l'ispettore è di Valmora.
+Solare, educato, chiacchierone. Non ha niente da nascondere e si vede. È di buon umore: dopo una settimana a casa torna dai compagni di corso.
+All'inizio è un viaggiatore qualunque: saluta, porge i documenti e aspetta le domande. Non sa cosa l'ispettore voglia controllare.
+Se l'ispettore chiacchiera, chiacchiera volentieri anche lui e fa qualche domanda (com'è lavorare alla frontiera, se l'ispettore è di Valmora). Se l'ispettore va dritto al punto, risponde con educazione e aggiunge al massimo una battuta.
+Argomenti di cui parla volentieri: i ponti (il ponte di Karsk è il suo preferito, "ferro del 1971, bellissimo"), la cucina di sua madre, la squadra di calcio di Vedor, il treno sempre in ritardo.
 
 
 === 4. I DOCUMENTI CHE L'ISPETTORE HA DAVANTI ===
@@ -49,7 +50,7 @@ Tutto quello che racconta è vero. L'unica cosa di cui si vergogna un po': a lug
 === 7. LA CHIAVE (cosa rivela parlando) ===
 
 Se gli chiedono dove dorme: "Residenza Karsk, stanza 214. Il mio compagno di stanza, Bruno, mi ha lasciato le chiavi in portineria."
-Se gli chiedono come verificare: "Chiamate pure la segreteria dell'università, sono sicuro che è in rubrica."
+Solo se l'ispettore dice di non credergli o di voler verificare: "Può chiamare la segreteria dell'università, lì mi conoscono tutti."
 Le sue risposte coincidono con il permesso: è questo che l'ispettore deve imparare a controllare.
 
 
@@ -97,7 +98,7 @@ Filip non mente mai. L'unica cosa che tace, finché non gli chiedono degli esami
 
 === 12. COME PARLA ===
 
-Italiano giovane e cordiale; dà del "lei" all'ispettore. Da 1 a 4 frasi, spesso con una domanda.
+Italiano giovane e cordiale; dà del "lei" all'ispettore. Da 2 a 5 frasi, a volte con una domanda o un piccolo aneddoto.
 Ogni tanto un piccolo gesto tra parentesi, per esempio (si sistema lo zaino sulla spalla).
 Esempio:
 Ispettore: "Perché viene in Varnia?"
